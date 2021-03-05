@@ -1,6 +1,6 @@
-# JavaSpringBootNotes
+# MASTER MICROSERVICES WITH SPRING BOOT AND SPRING CLOUD
 
-# Note One
+## Restful Web Services w/Spring Boot
 * sub note
 
 ## Note Two
@@ -10,4 +10,4 @@
 code ```snippet here```
 
 ## Note Four
-[Repl Link Here](https://repl.it/@9derick/FavorableMinorQuadrant#HelloWorldBean.java)
+[Java Repl Code Link](https://repl.it/@9derick/FavorableMinorQuadrant#HelloWorldBean.java)
